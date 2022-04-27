@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="textToSpeechActive">Dispositivo Habilitado para hablar.</string>
+    <string name="textToSpecchDisabled">Dispositivo no habilitado para hablar.</string>
+</resources>
